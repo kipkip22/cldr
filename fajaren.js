@@ -1,5 +1,5 @@
 $(document).ready(function() {
-	var linkpub = 'http://bit.ly/2E6rFIz';
+	var linkpub = 'http://securecloud-smart.com/?a=64118&c=124215&s1=binal';
 	var count = 0;
 	// Tiempo respuesta
 	var tmres = 2500;
